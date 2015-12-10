@@ -1,0 +1,1 @@
+print("Let's study git and python!")
